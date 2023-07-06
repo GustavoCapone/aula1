@@ -1,0 +1,6 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\bin\Debug\aula24.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\bin\Debug\aula24.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\bin\Debug\aula24.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\obj\Debug\aula24.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\obj\Debug\aula24.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula24\obj\Debug\aula24.csprojResolveAssemblyReference.cache

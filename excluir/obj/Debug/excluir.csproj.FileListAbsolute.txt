@@ -1,0 +1,6 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\bin\Debug\excluir.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\bin\Debug\excluir.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\bin\Debug\excluir.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\obj\Debug\excluir.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\obj\Debug\excluir.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\excluir\obj\Debug\excluir.csprojResolveAssemblyReference.cache

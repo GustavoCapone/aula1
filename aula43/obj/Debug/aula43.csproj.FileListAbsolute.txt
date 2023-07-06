@@ -1,0 +1,5 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula43\bin\Debug\aula43.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula43\bin\Debug\aula43.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula43\bin\Debug\aula43.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula43\obj\Debug\aula43.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\aula43\obj\Debug\aula43.pdb

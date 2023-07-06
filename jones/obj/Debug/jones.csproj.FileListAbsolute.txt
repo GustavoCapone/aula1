@@ -1,0 +1,6 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\bin\Debug\jones.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\bin\Debug\jones.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\bin\Debug\jones.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\obj\Debug\jones.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\obj\Debug\jones.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\jones\obj\Debug\jones.csprojResolveAssemblyReference.cache

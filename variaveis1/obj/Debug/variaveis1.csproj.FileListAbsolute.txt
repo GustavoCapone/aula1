@@ -1,0 +1,6 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\obj\Debug\variaveis1.csprojResolveAssemblyReference.cache
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\bin\Debug\variaveis1.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\bin\Debug\variaveis1.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\bin\Debug\variaveis1.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\obj\Debug\variaveis1.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula1\variaveis1\obj\Debug\variaveis1.pdb
